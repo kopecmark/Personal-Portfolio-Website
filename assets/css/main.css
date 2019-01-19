@@ -613,7 +613,7 @@ body {
 					Start Section Header  
 ----------------------------------------------------------------*/
 .home {
-    background-image: url(http://placehold.it/1920x1280);
+    background-image: url(../images/header.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
