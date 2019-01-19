@@ -22,7 +22,7 @@ input[type="text"], input[type="email"], input[type="url"], input[type="tel"], i
 .nav-fixed .navbar-nav .nav-item .nav-link {
     color: #f9f9f9;
 }
-.nav-fixed .social-media-nav li svg {
+.nav-fixed .social-media-nav li a {
     color: #f9f9f9;
 }
 

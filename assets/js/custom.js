@@ -116,10 +116,10 @@ $(document).ready(function () {
             0: {
                 items: 2
             },
-            768: {
+            200: {
                 items: 3
             },
-            1200: {
+            400: {
                 items: 5
             }
         }
