@@ -749,39 +749,39 @@
             
             <div class="offset-lg-1 col-lg-10">
 
-                    <form class="form">
+                    <form class="form" action="https://formspree.io/mark.kopec@gmail.com" method="POST">
                     <div class="row">
                         <div class="col-md-6">
                             <div class="form-group">
-                                <input type="text" placeholder="Name">
+                                <input type="text" placeholder="Name" name="contactName">
                             </div>
 
                         </div>  
                         
                         <div class="col-md-6">
                             <div class="form-group">
-                                <input type="Email" placeholder="Email">
+                                <input type="Email" placeholder="Email" name="contactEmail">
                             </div>
 
                         </div>
                         
                         <div class="col-md-12">
                             <div class="form-group">
-                                <input type="text" placeholder="subject">
+                                <input type="text" placeholder="subject" name="contacSubject">
                             </div>
 
                         </div>
                         
                         <div class="col-md-12">
                             <div class="form-group">
-                                <textarea placeholder="Your Message Here "></textarea>
+                                <textarea placeholder="Your Message Here " name="contactContent"></textarea>
                             </div>
                         </div>
                     </div>
 
                     
                     <!-- Button Send Message  -->
-                    <a href="#" class="btn-one">Send Message</a>
+                    <button class="btn-one" type="submit" value="Send">Send Message</a>
                 </form>
 
 
