@@ -1194,7 +1194,7 @@ body {
     position: absolute;
     border-radius: 5px;
 }
-.stat-item .text {
+.skill-container .text {
     margin-top: 6px;
     color: #f9f9f9;
     font-size: 14px;
