@@ -1,0 +1,22 @@
+.devicon {
+  max-width: 2em;
+}
+
+.devicon path {
+  fill: #f3c26b;
+}
+
+.skills-container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.skill-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 50px;
+  padding-right: 50px;
+}

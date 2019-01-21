@@ -960,7 +960,7 @@ body {
 }
 
 .info-skills h3::before {
-        position: absolute;
+    position: absolute;
     left: 0;
     bottom: 12px;
     background: #444;
@@ -1150,7 +1150,7 @@ body {
 ----------------------------------------------------------------*/
 .statistics  {
     width: 100%;
-    background-image: url(http://placehold.it/1920x1280);
+    background-image: url(../images/bg-1.jpeg);
     background-position: center center;
     background-repeat: no-repeat;
     top: 0;
