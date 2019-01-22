@@ -1,7 +1,7 @@
-# Fwep.io
+# Mark Kopec Personal Portfolio
 
 ## Acknowledgments
-Special thanks to Brittany Chiang (https://brittanychiang.com/) for providing the inspiration and skeleton for this portfolio site of mine.
+Special thanks to Brittany Chiang (https://brittanychiang.com/) for providing the inspiration and skeleton for this portfolio site.
 
 ## 🚀 Quick Start
 
