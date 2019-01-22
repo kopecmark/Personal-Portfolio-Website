@@ -1,17 +1,14 @@
 ---
 date: '2018-12-20'
-title: 'Attack'
-cover: './attack.png'
-github: 'https://github.com/Fwep/Attack'
-external: 'https://attackslack.herokuapp.com/'
+title: 'Powder Graph'
+cover: './powdergraph.png'
+github: 'https://github.com/kopecmark/PowderGraph'
+external: 'https://kopecmark.github.io/PowderGraph/'
 tech:
-  - Ruby
-  - Rails
-  - PostgreSQL
-  - HTML5
-  - SASS
-  - CSS3
-  - Action Cable
+  - HTML
+  - CSS
+  - JavaScript
+  - D3.js
 ---
 
-Workplace communication application taking inspiration from the Slack website. Utilizes realtime communication via the WebSockets protocol in the ActionCable library.
+Data visualization for snow and rain amounts in Lake Louise, Canada over the past century

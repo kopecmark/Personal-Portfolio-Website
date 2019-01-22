@@ -1,32 +1,24 @@
 module.exports = {
-  siteTitle: 'Taran Cacacho | Full-Stack Software Engineer',
-  siteDescription: 'Full-stack software engineer based in San Francisco, CA',
+  siteTitle: 'Mark Kopec | Full-Stack Software Engineer',
+  siteDescription: 'Full-stack software engineer based in Calgary, AB, Canada',
   siteKeywords:
-    'Taran Noah Cacacho, Taran, Noah, Cacacho, Fwep, software engineer, front-end engineer, web developer, javascript, UCLA',
-  siteUrl: 'https://brittanychiang.com',
+    'Mark Kopec, Mark, Kopec, software engineer, front-end engineer, web developer, software developer, javascript, mechanical engineer, project manager, project management professional',
+  siteUrl: 'https://www.mkopec.com',
   siteLanguage: 'en_US',
 
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleVerification: 'LljmGYszSdLgS8uyR2gVPJ3cn9kKf6MrULHhmci7JnM',
 
-  name: 'Taran Cacacho',
-  location: 'San Francisco, CA',
-  email: 'tarancacacho@gmail.com',
+  name: 'Mark Kopec',
+  location: 'Calgary, AB, Canada',
+  email: 'mark.kopec@gmail.com',
   socialMedia: [
     {
       name: 'Github',
-      url: 'https://github.com/Fwep/',
+      url: 'https://github.com/kopecmark/',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/tarancacacho/',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/_fwep_/',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/fwep_',
+      url: 'https://www.linkedin.com/in/mark-kopec/',
     },
   ],
 
@@ -49,8 +41,7 @@ module.exports = {
     },
   ],
 
-  twitterHandle: '@fwep_',
-  googleAnalyticsID: 'UA-45666519-2',
+  googleAnalyticsID: 'UA-132772964-1',
 
   headerHeight: 100,
 

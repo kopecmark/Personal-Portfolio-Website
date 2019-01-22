@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Taran Cacacho'
-subtitle: "I'm a software engineer."
+name: 'Mark Kopec'
+subtitle: "I'm a software developer."
 contactText: 'Get In Touch'
 ---
 
-I'm a software engineer based in San Francisco, CA specializing in developing exceptional, high-quality websites and applications.
+I'm a software developer specializing in developing exceptional, high-quality full-stack applications.

@@ -1,17 +1,18 @@
 ---
 date: '2019-01-09'
-title: 'TravelX'
-cover: './travelx.png'
-github: 'https://github.com/Fwep/TravelX'
-external: 'https://travelx-aa.herokuapp.com/'
+title: 'AirCamp'
+cover: './air-camp.png'
+github: 'https://github.com/kopecmark/AirCamp'
+external: 'https://air-camp.herokuapp.com/#/'
 tech:
-  - MongoDB
-  - Express.js
-  - React
-  - Node.js
-  - Axios
-  - Material UI
-  - Google Places
+  - Ruby
+  - Rails
+  - PostgreSQL
+  - HTML5
+  - SASS
+  - CSS3
+  - Google Maps
+  - AWS S3
 ---
 
-An end-to-end travel application that simplifies the user experience of planning the trip of a lifetime.
+Faithful reproduction of the website HipCamp
