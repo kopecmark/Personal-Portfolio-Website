@@ -5,10 +5,10 @@ cover: './powdergraph.png'
 github: 'https://github.com/kopecmark/PowderGraph'
 external: 'https://kopecmark.github.io/PowderGraph/'
 tech:
+  - D3.js
+  - JavaScript
   - HTML
   - CSS
-  - JavaScript
-  - D3.js
 ---
 
 Data visualization for snow and rain amounts in Lake Louise, Canada over the past century
