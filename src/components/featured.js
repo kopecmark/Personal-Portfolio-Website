@@ -99,21 +99,21 @@ const Links = styled.div`
 `;
 const FeaturedImg = styled(Img)`
   width: 100%;
-  max-width: 100%;
   vertical-align: middle;
   border-radius: ${theme.borderRadius};
   position: relative;
+  transition: all 0.2s ease;
+  object-fit: cover;
   ${media.tablet`
-    object-fit: cover;
     width: auto;
-    height: 100%;
+    height: 100px;
   `};
 `;
 const ImgContainer = styled.div`
   position: relative;
   z-index: 1;
+  overflow: hidden;
   border-radius: ${theme.borderRadius};
-
   border-radius: 2px;
   grid-column: 7 / -1;
   grid-row: 1 / -1;
@@ -123,25 +123,9 @@ const ImgContainer = styled.div`
     grid-column: 1 / -1;
     opacity: 0.25;
   `};
-  &:hover,
-  &:focus {
+  &:hover {
     background: transparent;
-    &:before,
-    ${FeaturedImg} {
-      background: transparent;
-      filter: none;
-    }
-  }
-  &:before {
-    content: '';
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 3;
+    transform: scale(1.2);
   }
 `;
 const Project = styled.div`
