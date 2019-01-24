@@ -118,7 +118,7 @@ const ImgContainer = styled.div`
   border-radius: ${theme.borderRadius};
   background-color: ${colors.green};
   border-radius: 2px;
-  grid-column: 6 / -1;
+  grid-column: 7 / -1;
   grid-row: 1 / -1;
   transition: ${theme.transition};
   ${media.tablet`height: 100%;`};
@@ -183,7 +183,7 @@ const Project = styled.div`
       margin-right: -10px;
     }
     ${ImgContainer} {
-      grid-column: 1 / 8;
+      grid-column: 1 / 7;
       ${media.tablet`height: 100%;`};
       ${media.thone`
         grid-column: 1 / -1;
