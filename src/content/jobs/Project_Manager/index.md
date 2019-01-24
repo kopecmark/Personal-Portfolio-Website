@@ -1,11 +1,11 @@
 ---
-date: '2007-09-17'
-title: 'Mechanical Engineer'
+date: '2017-05-17'
+title: 'Project Manager'
 company: 'Imperial Oil Ltd.'
 location: 'Toronto, ON'
-range: 'Sep 2007 – Aug 2010'
+range: 'Mar 2017 - Sep 2017 & May 2011 – May 2016'
 url: 'https://www.imperialoil.ca/'
 ---
 
-- Developed a Python algorithm to manipulate 3D laser scan data for large industrial equipment and automatically built it in a stress analysis modeling software for analysis, reducing typical assessment time from 1 month to 3 days
-- Demonstrated strong technical capabilities and innovative problem solving when completing detailed analysis of equipment failures and developed custom repair options to extend the utility of equipment
+- Overhauled the division’s purchase order creation & monitoring and project development & estimating processes by creating a variety of VBA macros that automated several of the manual input processes and report extractions with SAP which resulted in a reduction in financial recording errors of 87% and data entry time reduction of 73%
+- Supervised construction crews onsite and demonstrated strong conflict resolution by effectively mediating disputes between various contractor groups

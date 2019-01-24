@@ -8,7 +8,7 @@ const { colors, fontSizes, fonts } = theme;
 
 const JobsContainer = styled(Section)`
   position: relative;
-  max-width: 700px;
+  max-width: 1000px;
 `;
 const TabsContainer = styled.div`
   display: flex;
@@ -173,7 +173,7 @@ class Jobs extends Component {
           <Tabs role="tablist">
             {data &&
               data.map(({ node }, i) => {
-                const { company } = node.frontmatter;
+                const { title } = node.frontmatter;
                 return (
                   <Tab
                     key={i}
@@ -184,7 +184,7 @@ class Jobs extends Component {
                     aria-controls={`tab${i}`}
                     id={`tab${i}`}
                     tabIndex={this.isActive(i) ? '0' : '-1'}>
-                    <span>{company}</span>
+                    <span>{title}</span>
                   </Tab>
                 );
               })}
