@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: 'Mark Kopec | Full-Stack Software Engineer',
   siteDescription: 'Full-stack software engineer based in Calgary, AB, Canada',
   siteKeywords:
-    'Mark Kopec, Mark, Kopec, software engineer, front-end engineer, web developer, software developer, javascript, mechanical engineer, project manager, project management professional',
+    'Mark Kopec, Mark, Kopec, software engineer, front-end engineer, front-end developer, web developer, software developer, javascript, mechanical engineer, project manager, project management professional',
   siteUrl: 'https://www.mkopec.com',
   siteLanguage: 'en_US',
 
@@ -32,7 +32,7 @@ module.exports = {
       url: '#jobs',
     },
     {
-      name: 'Work',
+      name: 'Projects',
       url: '#projects',
     },
     {
