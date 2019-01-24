@@ -1,6 +1,6 @@
 # Mark Kopec Personal Portfolio
 
-This is the first iteration of my personal site built with Gatsby and hosted with Netlify.
+This is the first iteration of my personal site built with Gatsby and hosted with Netlify. Live [Link](https://www.mkopec.com)
 
 ## Acknowledgments
 
