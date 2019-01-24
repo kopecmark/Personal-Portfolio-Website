@@ -1,6 +1,9 @@
 # Mark Kopec Personal Portfolio
 
+This is the first iteration of my personal site built with Gatsby and hosted with Netlify.
+
 ## Acknowledgments
+
 Special thanks to Brittany Chiang (https://brittanychiang.com/) for providing the inspiration and skeleton for this portfolio site.
 
 ## 🚀 Quick Start
@@ -31,15 +34,15 @@ Special thanks to Brittany Chiang (https://brittanychiang.com/) for providing th
 
 ## Building and Running for Production
 
-In addition to the development server started with `yarn start`, you can also generate a full static production build and serve that to preview the site as it will appear once deployed:
+In addition to the development server started with `npm run start`, you can also generate a full static production build and serve that to preview the site as it will appear once deployed:
 
 ```sh
-npm build
+npm run build
 ```
 
-```sh
-npm server
-```
+## Setup Netlify
+
+In your Netlify deploy settings make sure to add `npm run build` to the build command field and specifiy `public` as the publish directory.
 
 ## 🧐 What's inside?
 
