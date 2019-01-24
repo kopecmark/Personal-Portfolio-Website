@@ -2,9 +2,9 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
+  - Javascript
   - Ruby
   - Rails
-  - Javascript
   - HTML & CSS
   - React
   - Redux
