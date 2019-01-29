@@ -15,4 +15,4 @@ tech:
   - AWS S3
 ---
 
-Faithful reproduction of the website HipCamp
+Full-stack application for finding and booking campsites

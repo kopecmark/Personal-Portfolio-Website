@@ -7,5 +7,5 @@ range: 'Sep 2007 – Aug 2010'
 url: 'https://www.imperialoil.ca/'
 ---
 
-- Automated the organization’s Excel scheduling process by developing a VBA macro to connect the existing manual Excel based process to MS Project which reduced administrative burden of a task that used to take 5 days out of a month to complete, to 1 day while reducing or eliminating common human errors
-- Demonstrated excellent communication and analytical skills as well as versatility, critical thinking and sound judgement when interviewing senior management on their departmental processes. Advised on opportunities for improvements and optimization
+- Conducted technical and financial reviews to ensure adherence to company policies and identify opportunities for improvement
+- Created a VBA macro to dynamically connect Microsoft Project with the division’s existing Excel based project scheduling process to visualize conflicts and eliminate errors when making changes, which resulted in reducing planning efforts from 5 days to 1 day a month
